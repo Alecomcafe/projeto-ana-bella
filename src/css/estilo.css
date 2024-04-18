@@ -1,0 +1,84 @@
+body {
+    background-image: url(/src/img/fundo.png);
+    margin-left: 15px;
+    
+}
+
+nav {
+    max-width: 880px;
+}
+
+.menu {
+   
+    margin: 20px;
+    margin-left: 0;
+    padding: 10px;
+    word-spacing: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:#cec3af;
+    display: flex;
+    justify-content:space-around
+}
+
+a{
+    font-weight: bold;
+    color:#3a493e;
+    font-size: 20px;
+}
+
+h3 {
+    padding-top: 10px;
+}
+
+.textos {
+    padding-top: 10px;
+    padding-right:20px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    background-color: #cec3af;
+    max-width: 870px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+footer {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    max-width: 870px;
+    text-align: center;
+    font-size:13px;
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: 0.5;
+}
+
+/* Página Campanha Publicitária*/
+
+.foto1 {
+    width: 500px;
+    border: 8px solid #c6a69c;
+}
+
+/* Página de Contato */
+
+.contato {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 12px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+/* Biografia */
+
+.texto-biografia {
+    padding-top: 10;
+    padding-right: 20px;
+    padding-left: 15px;
+    padding-bottom: 20px;
+    background-color: #cec3af;
+    max-width: 870px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    text-align: justify;
+}
+
